@@ -1,0 +1,9 @@
+{
+  "typescript.tsdk": "node_modules\\typescript\\lib",
+  "audioCues.volume": 70,
+  "audioCues.diffLineDeleted": "auto",
+  "audioCues.diffLineInserted": "auto",
+  "audioCues.diffLineModified": "auto",
+  "editor.accessibilitySupport": "auto",
+  "audioCues.lineHasError": "off"
+}
